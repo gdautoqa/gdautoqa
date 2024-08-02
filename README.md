@@ -3,7 +3,7 @@
 ## About Me
 As a Lead Software Quality Assurance Engineer and Scrum Master, I enhance software quality through automation and testing strategies. I excel in designing test frameworks and automated solutions that streamline processes and improve efficiency.
 
-I leverage innovative solutions to boost testing efficiency and accuracy, drawing on extensive experience in both automated and manual testing to ensure comprehensive coverage and reliability. I advocate for product quality through feature, functional, regression, and end-to-end testing, and my expertise in defect tracking helps promptly resolve issues and maintain high standards.
+I leverage innovative solutions to boost testing efficiency and accuracy, drawing on extensive experience in both automated and manual testing to ensure comprehensive coverage and reliability. I advocate for product quality through feature, functional, performance, regression, and end-to-end testing, and my expertise in defect tracking helps promptly resolve issues and maintain high standards.
 
 I analyze functional specifications to ensure precise requirements and lead QA teams, fostering a culture of continuous improvement and collaboration. As a proponent of Agile methodologies, I lead teams in Agile practices to enhance collaboration and adaptability, aligning projects with business goals. I coordinate testing and deployment activities within CI/CD pipelines, ensuring smooth transitions through the SDLC.
 

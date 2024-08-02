@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 ## About Me
-As a Lead Software Quality Assurance Engineer, I focus on improving software quality through automation, detailed test plans, and comprehensive testing strategies. My expertise spans functional, regression, sanity, build, and end-to-end testing to ensure robust product quality. I am dedicated to prioritizing, planning, and coordinating quality testing activities, driving continuous improvement in every project. As a Lead Software Quality Assurance Engineer, I focus on improving software quality through automation, detailed test plans, and comprehensive testing strategies. My expertise spans functional, regression, sanity, build, and end-to-end testing to ensure robust product quality. I am dedicated to prioritizing, planning, and coordinating quality testing activities, driving continuous improvement in every project.\
+As a Lead Software Quality Assurance Engineer and Scrum Master, I enhance software quality through automation and testing strategies. I excel in designing test frameworks and automated solutions that streamline processes and improve efficiency.
+
+I leverage innovative solutions to boost testing efficiency and accuracy, drawing on extensive experience in both automated and manual testing to ensure comprehensive coverage and reliability. I advocate for product quality through feature, functional, regression, and end-to-end testing, and my expertise in defect tracking helps promptly resolve issues and maintain high standards.
+
+I analyze functional specifications to ensure precise requirements and lead QA teams, fostering a culture of continuous improvement and collaboration. As a proponent of Agile methodologies, I lead teams in Agile practices to enhance collaboration and adaptability, aligning projects with business goals. I coordinate testing and deployment activities within CI/CD pipelines, ensuring smooth transitions through the SDLC.
+
+Committed to continuous learning, I stay updated with the latest QA trends and technologies, ensuring that my skills and strategies remain current and effective. My strategic approach and attention to detail ensure software products that not only meet but exceed user expectations.\
 \
 [My LinkedIn Profile](https://www.linkedin.com/in/garrett-dillon/)
 
@@ -70,13 +76,13 @@ Sep 2016 - Feb 2020
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)
 * Postman Automated API Tests (WIP)
 * WebdriverIO UI Automation (WIP)
-* Cypress UI Automation (WIP)
-* Cypress API Automation (WIP)
-* Selenium UI Automation (WIP)
+* Cypress UI Automation (TBC)
+* Cypress API Automation (TBC)
+* Selenium UI Automation (TBC)
 
 
 ### Boilerplates
 * [Playwright](https://github.com/gdautoqa/playwright-boilerplate)
 * WebdriverIO (WIP)
-* Cypress (WIP)
-* Selenium (WIP)
+* Cypress (TBC)
+* Selenium (TBC)

@@ -40,10 +40,10 @@ Sep 2016 - Feb 2020
 * Jenkins
 * GitHub Actions
 * Git/GitHub/BitBucket
-* Jira
-* Zephyr Scale
 * JavaScript
 * SQL
+* Jira
+* Zephyr Scale
 
 
 ## Tech Skills

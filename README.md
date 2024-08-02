@@ -32,6 +32,7 @@ Sep 2016 - Feb 2020
 
 * Playwright
 * WebdriverIO
+* Selenium
 * Reflect
 * Postman
 * Jmeter
@@ -65,6 +66,7 @@ Sep 2016 - Feb 2020
 * [LambdaTest Software Testing Professional](https://www.linkedin.com/learning/certificates/84613b9519cea9cfe041963b2b73f770348dfef11163d504bd9b04cf7b5c16e1?u=67698794)
 * [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/b00f23165af8cd65f696f613dd3c00bfe87719ab3b286baa208a8968a1eeb41b?u=67698794)
 * [GitHub Professional Certificate](https://www.linkedin.com/learning/certificates/4f9eb9ee8fa16ddb177ad9049473538d482bd8765fd5ffc7962aabeeadb0c554?u=67698794)
+* [Postman API Fundamentals Expert](https://badgr.com/backpack/badges/66ad60219407db50ce7391f6)
 * [Microsoft AI for Organizational Leaders](https://www.linkedin.com/learning/certificates/c6e912ddb96df44adb4dcbf0ed18c124662c1cd0a990acb55bdb0f2d42e850d4?u=67698794)
 * [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
@@ -76,9 +78,9 @@ Sep 2016 - Feb 2020
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)
 * Postman Automated API Tests (WIP)
 * WebdriverIO UI Automation (WIP)
+* Selenium UI Automation (TBC)
 * Cypress UI Automation (TBC)
 * Cypress API Automation (TBC)
-* Selenium UI Automation (TBC)
 
 
 ### Boilerplates

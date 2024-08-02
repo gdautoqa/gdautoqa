@@ -76,7 +76,7 @@ Sep 2016 - Feb 2020
 * [Playwright UI Automation](https://github.com/gdautoqa/playwright-ui-test-letcode)
 * Playwright E-Commerce UI Automation (WIP)
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)
-* Postman Automated API Tests (WIP)
+* [Postman Automated API Tests](https://github.com/gdautoqa/postman-automated-api-tests)
 * WebdriverIO UI Automation (WIP)
 * Selenium UI Automation (TBC)
 * Cypress UI Automation (TBC)

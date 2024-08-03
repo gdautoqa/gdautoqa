@@ -79,14 +79,14 @@ Sep 2013 - Sep 2016
 * [Playwright E-Commerce UI Automation](https://github.com/gdautoqa/playwright-e-commerce)
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)
 * [Postman Automated API Tests](https://github.com/gdautoqa/postman-automated-api-tests)
-* WebdriverIO UI Automation (WIP)
-* Selenium UI Automation (TBC)
+* WebdriverIO UI Automation (TBC)
+* Selenium UI Automation (WIP)
 * Cypress UI Automation (TBC)
 * Cypress API Automation (TBC)
 
 
 ### Boilerplates
 * [Playwright](https://github.com/gdautoqa/playwright-boilerplate)
-* WebdriverIO (WIP)
-* Selenium (TBC)
+* WebdriverIO (TBC)
+* Selenium (WIP)
 * Cypress (TBC)

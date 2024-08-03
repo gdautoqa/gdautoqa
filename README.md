@@ -24,7 +24,7 @@ Aug 2022 - Jul 2024\
 Senior Quality Assurance Engineer | Scrum Master\
 Feb 2020 - Aug 2022\
 \
-Technical Product Specialist III\
+Technical Product Analyst III\
 Sep 2016 - Feb 2020
 
 

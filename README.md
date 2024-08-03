@@ -26,7 +26,9 @@ Feb 2020 - Aug 2022\
 \
 Technical Product Analyst III\
 Sep 2016 - Feb 2020
-
+\
+Senior Technical Analyst\
+Sep 2013 - Sep 2016
 
 ## Tools & Software
 

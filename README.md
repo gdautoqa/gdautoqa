@@ -76,7 +76,6 @@ Sep 2013 - Sep 2016
 ## Example Automation Projects
 ### Below are examples of code I've written for automated projects.
 * [Playwright UI Automation](https://github.com/gdautoqa/playwright-ui-test-letcode)
-* [Playwright E-Commerce UI Automation](https://github.com/gdautoqa/playwright-e-commerce)
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)
 * [Postman Automated API Tests](https://github.com/gdautoqa/postman-automated-api-tests)
 * WebdriverIO UI Automation (TBC)

@@ -35,8 +35,8 @@ Sep 2013 - Sep 2016
 * Playwright
 * WebdriverIO
 * Selenium
-* Reflect
-* Postman
+* Postman/Newman
+* Cucumber BDD/Gherkin
 * Jmeter
 * axe DevTools (Accessibility Testing)
 * Jenkins
@@ -58,7 +58,7 @@ Sep 2013 - Sep 2016
 * Mobile (iOS/Android) Testing
 * API Testing
 * Agile Methodologies
-* SDLC
+* SDLC/STLC/DLC
 * CI/CD
 * DevOps Practices
 

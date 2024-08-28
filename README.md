@@ -1,13 +1,13 @@
 ## Hi there 👋 Note - This page is a work in progress!
 
 ## About Me
-As a Lead Software Quality Assurance Engineer and Scrum Master, I am dedicated to enhancing software quality through innovative automation and strategic testing. I excel in designing test frameworks and automated solutions that streamline processes and improve efficiency.
+As a Lead QA Engineer and Scrum Master, I drive software quality through strategic testing and advanced automation. I design robust test frameworks and automated solutions to enhance efficiency and ensure comprehensive coverage.
 
-Drawing on experience in both automated and manual testing, I leverage innovative solutions to ensure comprehensive test coverage and reliability. I advocate for product quality through feature, functional, performance, regression, and end-to-end testing. My expertise in defect tracking helps promptly resolve issues, maintaining the highest standards.
+With expertise in both automated and manual testing, I maintain high standards across feature, functional, performance, regression, and end-to-end testing. My proficiency in defect tracking leads to swift issue resolution.
 
-I excel at analyzing functional specifications to ensure precise requirements. As an advocate for Agile methodologies, I lead teams in Agile practices to foster collaboration and adaptability, ensuring projects align with business goals. I manage testing and deployment activities within CI/CD pipelines, ensuring smooth transitions throughout the SDLC.
+I translate functional specifications into precise requirements, ensuring product alignment with user expectations. Leading Agile teams, I foster collaboration and adaptability, ensuring projects meet business goals. My management of CI/CD pipelines supports seamless integration throughout the SDLC.
 
-My strategic approach and meticulous attention to detail ensure that software products not only meet but exceed user expectations, delivering exceptional value.\
+Through strategic and meticulous practices, I ensure software exceeds user expectations and delivers exceptional value.\
 \
 [My LinkedIn Profile](https://www.linkedin.com/in/garrett-dillon/)
 

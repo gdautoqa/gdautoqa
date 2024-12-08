@@ -20,7 +20,8 @@ Information Technology & Cybersecurity
 ## My Experience
 Lead E2E Test Engineer\
 Oct 2024 - Present\
-\Lead Quality Assurance Engineer | Scrum Master\
+\
+Lead Quality Assurance Engineer | Scrum Master\
 Aug 2022 - Jul 2024\
 \
 Senior Quality Assurance Engineer | Scrum Master\

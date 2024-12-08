@@ -72,7 +72,6 @@ Sep 2013 - Sep 2016
 * [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/b00f23165af8cd65f696f613dd3c00bfe87719ab3b286baa208a8968a1eeb41b?u=67698794)
 * [GitHub Professional Certificate](https://www.linkedin.com/learning/certificates/4f9eb9ee8fa16ddb177ad9049473538d482bd8765fd5ffc7962aabeeadb0c554?u=67698794)
 * [Postman API Fundamentals Expert](https://badgr.com/backpack/badges/66ad60219407db50ce7391f6)
-* [Microsoft AI for Organizational Leaders](https://www.linkedin.com/learning/certificates/c6e912ddb96df44adb4dcbf0ed18c124662c1cd0a990acb55bdb0f2d42e850d4?u=67698794)
 * [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 

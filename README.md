@@ -27,36 +27,40 @@ Quality Assurance Engineer\
 Sep 2016 - Feb 2020
 
 
-## Tools & Software
+## Tools & Technologies
 
+* TypeScript/JavaScript
 * Playwright
+* Cypress
 * WebdriverIO
 * Selenium
 * Postman/Newman
 * Cucumber BDD/Gherkin
 * Jmeter
-* axe DevTools (Accessibility Testing)
 * Jenkins
 * GitHub Actions
 * Git/GitHub/BitBucket
-* JavaScript
 * SQL
-* Jira
+* Jira/Confluence
 * Zephyr Scale
+* axe/WAVE/Lighthouse
+* NVDA/JAWS/VoiceOver/TalkBack
 
 
-## Tech Skills
+## Skills & Processes
 * Test Automation Design
 * Test Case Management
 * Test Planning
 * Functional Testing
 * Non-Functional Testing
+* API Testing
+* Accessibility Testing/508/WCAG
 * Bug Tracking
 * Mobile (iOS/Android) Testing
-* API Testing
 * Agile Methodologies
 * SDLC/STLC/DLC
 * CI/CD
+* BDD/TDD/Shift-Left
 * DevOps Practices
 
 

@@ -1,13 +1,9 @@
 ## Hi there 👋 Note - This page is a work in progress!
 
 ## About Me
-As a Lead QA Engineer and Scrum Master, I drive software quality through strategic testing and advanced automation. I design robust test frameworks and automated solutions to enhance efficiency and ensure comprehensive coverage.
+Accomplished Automation Engineer and Lead QA Specialist with expertise in designing test frameworks, optimizing QA processes, and ensuring seamless SDLC integration.
 
-With expertise in both automated and manual testing, I maintain high standards across feature, functional, performance, regression, and end-to-end testing. My proficiency in defect tracking leads to swift issue resolution.
-
-I translate functional specifications into precise requirements, ensuring product alignment with user expectations. Leading Agile teams, I foster collaboration and adaptability, ensuring projects meet business goals. My management of CI/CD pipelines supports seamless integration throughout the SDLC.
-
-Through strategic and meticulous practices, I ensure software exceeds user expectations and delivers exceptional value.\
+Skilled in Agile methodologies, CI/CD pipelines, and end-to-end testing of UI and API endpoints. Committed to delivering high-quality software by enhancing reliability, minimizing defects, and driving efficiency to exceed expectations and achieve success.\
 \
 [My LinkedIn Profile](https://www.linkedin.com/in/garrett-dillon/)
 

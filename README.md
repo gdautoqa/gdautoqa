@@ -75,6 +75,7 @@ Sep 2016 - Feb 2020
 
 ## Example Automation Projects
 ### Below are examples of code I've written for automated projects.
+* [Playwright UI Automation for Ecommerce](https://github.com/gdautoqa/playwright-ecommerce))
 * [Playwright UI Automation with BDD/Cucumber](https://github.com/gdautoqa/playwright-ui-bdd-cucumber)
 * [Playwright UI Automation no BDD](https://github.com/gdautoqa/playwright-ui-no-bdd)
 * [Playwright Automated API Tests](https://github.com/gdautoqa/playwright-automated-api-tests)

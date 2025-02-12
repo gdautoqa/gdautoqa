@@ -90,6 +90,3 @@ Sep 2016 - Feb 2020
 
 ### Boilerplates
 * [Playwright](https://github.com/gdautoqa/playwright-boilerplate)
-* Cypress (TBC)
-* WebdriverIO (TBC)
-* Selenium (WIP)

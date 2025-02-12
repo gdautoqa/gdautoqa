@@ -41,6 +41,7 @@ Sep 2016 - Feb 2020
 * GitHub Actions
 * Git/GitHub/BitBucket
 * SQL
+* Docker
 * Jira/Confluence
 * Zephyr Scale
 * axe/WAVE/Lighthouse

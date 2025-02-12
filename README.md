@@ -75,9 +75,10 @@ Sep 2016 - Feb 2020
 
 ## Example Automation Projects
 ### Below are examples of code I've written for automated projects.
-* [Playwright UI Automation for Ecommerce](https://github.com/gdautoqa/playwright-ecommerce)
-* [Playwright UI Automation with BDD/Cucumber](https://github.com/gdautoqa/playwright-ui-bdd-cucumber)
-* [Playwright UI Automation no BDD](https://github.com/gdautoqa/playwright-ui-no-bdd)
+* [Playwright UI Automation - Ecommerce](https://github.com/gdautoqa/playwright-ecommerce)
+* [Playwright UI Automation - With BDD/Cucumber](https://github.com/gdautoqa/playwright-ui-bdd-cucumber)
+* [Playwright UI Automation - No BDD](https://github.com/gdautoqa/playwright-ui-no-bdd)
+* [Playwright UI Automation - DemoQA](https://github.com/gdautoqa/playwright-ui-demoqa)
 * [Playwright Automated API Tests - ReqRes](https://github.com/gdautoqa/playwright-automated-api-tests)
 * [Playwright Automated API Tests - Swagger Petstore](https://github.com/gdautoqa/playwright-api-petstore)
 * [Postman Automated API Tests](https://github.com/gdautoqa/postman-automated-api-tests)

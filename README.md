@@ -1,9 +1,7 @@
 ## Hi there 👋 Note - This page is a work in progress!
 
 ## About Me
-Accomplished Automation Engineer and Lead QA Specialist with expertise in designing test frameworks, optimizing QA processes, and ensuring seamless SDLC integration.
-
-Skilled in Agile methodologies, CI/CD pipelines, and end-to-end testing of UI and API endpoints. Committed to delivering high-quality software by enhancing reliability, minimizing defects, and driving efficiency to exceed expectations and achieve success.\
+Accomplished Automation Engineer and Lead QA Specialist with a focus on designing scalable automation frameworks, optimizing QA strategies, and driving seamless CI/CD integration to enhance software reliability. Experienced in UI, API, and performance testing, with a commitment to efficiency, defect prevention, and continuous improvement. Dedicated to delivering high-quality software through automation and strategic testing practices.\
 \
 [My LinkedIn Profile](https://www.linkedin.com/in/garrett-dillon/)
 

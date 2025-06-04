@@ -16,7 +16,7 @@ Software Engineer In Test\
 Mar 2025 - Present\
 \
 Lead Test & Automation Engineer\
-Oct 2024 - Feb 2025\
+Sep 2024 - Feb 2025\
 \
 Lead Quality Assurance Engineer | Scrum Master\
 Aug 2022 - Jul 2024\

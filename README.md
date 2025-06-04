@@ -12,6 +12,9 @@ Information Technology & Cybersecurity
 
 
 ## My Experience
+Software Engineer In Test\
+Mar 2025 - Present\
+\
 Lead Test & Automation Engineer\
 Oct 2024 - Feb 2025\
 \
